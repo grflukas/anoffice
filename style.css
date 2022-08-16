@@ -262,8 +262,20 @@ a.portfolio-link {
     font-size:20px;
   }
 
+  footer {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 74%, rgba(255,255,255,0) 100%);
+    padding-top: 30px;
+    width: 100%;
+  }
+
   footer a {
     font-size:20px;
+  }
+
+  #footer-small p, #footer-small a {
+    margin:0px;
+    margin-top: 5px;
   }
 
   .hwrap {
@@ -271,7 +283,8 @@ a.portfolio-link {
   }
 
   .hitem {
-    font-size:30px;
+    font-size:22px;
+    line-height: 1.6;
     font-family: Helvetica, Arial, sans-serif;
     flex-shrink: 0;
     width: 100%;
