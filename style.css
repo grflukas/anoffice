@@ -218,6 +218,14 @@ a.portfolio-link {
     width:100%;
   }
 
+  header {
+    top:50px;
+  }
+
+  section#office-description {
+    margin-top:150px;
+  }
+
   #documenta-banner {
     display: none;
   }
@@ -246,6 +254,9 @@ a.portfolio-link {
     font-size:40px;
   }
 
+  h2 {
+    font-size:25px;
+  }
 
   #office-description p {
     font-size:20px;
