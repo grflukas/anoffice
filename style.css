@@ -241,6 +241,28 @@ a.portfolio-link {
   }
 
   h1 {
-    font-size:60px;
+    font-size:40px;
+  }
+
+  p {
+    font-size:20px;
+  }
+
+  footer a {
+    font-size:20px;
+  }
+
+  .hwrap {
+    height:50px;
+  }
+
+  .hitem {
+    font-size:30px;
+    font-family: Helvetica, Arial, sans-serif;
+    flex-shrink: 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
   }
 }
