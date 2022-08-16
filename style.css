@@ -147,6 +147,8 @@ section#office-images {
 #office-portfolio {
   margin-top:50px;
   padding-bottom:800px;
+  padding:5px;
+  box-sizing: border-box;
 }
 
 img.folder-img {
